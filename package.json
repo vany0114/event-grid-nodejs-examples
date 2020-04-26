@@ -1,0 +1,18 @@
+{
+  "name": "eventgrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "azure-eventgrid": "^1.1.0",
+    "ms-rest": "^2.3.3",
+    "ms-rest-azure": "^2.5.5"
+  }
+}
